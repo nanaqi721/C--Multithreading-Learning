@@ -1,0 +1,14 @@
+E:\VsCodeObject\BasicSyntax\BasicSyntax\bin\Debug\net7.0\BasicSyntax.exe
+E:\VsCodeObject\BasicSyntax\BasicSyntax\bin\Debug\net7.0\BasicSyntax.deps.json
+E:\VsCodeObject\BasicSyntax\BasicSyntax\bin\Debug\net7.0\BasicSyntax.runtimeconfig.json
+E:\VsCodeObject\BasicSyntax\BasicSyntax\bin\Debug\net7.0\BasicSyntax.dll
+E:\VsCodeObject\BasicSyntax\BasicSyntax\bin\Debug\net7.0\BasicSyntax.pdb
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.AssemblyInfoInputs.cache
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.AssemblyInfo.cs
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.dll
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\refint\BasicSyntax.dll
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.pdb
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\BasicSyntax.genruntimeconfig.cache
+E:\VsCodeObject\BasicSyntax\BasicSyntax\obj\Debug\net7.0\ref\BasicSyntax.dll
