@@ -1,0 +1,16 @@
+E:\VsCodeObject\BasicSyntax\TaskOffload\bin\Debug\net7.0-windows\TaskOffload.exe
+E:\VsCodeObject\BasicSyntax\TaskOffload\bin\Debug\net7.0-windows\TaskOffload.deps.json
+E:\VsCodeObject\BasicSyntax\TaskOffload\bin\Debug\net7.0-windows\TaskOffload.runtimeconfig.json
+E:\VsCodeObject\BasicSyntax\TaskOffload\bin\Debug\net7.0-windows\TaskOffload.dll
+E:\VsCodeObject\BasicSyntax\TaskOffload\bin\Debug\net7.0-windows\TaskOffload.pdb
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.Form1.resources
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.csproj.GenerateResource.cache
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.AssemblyInfoInputs.cache
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.AssemblyInfo.cs
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.dll
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\refint\TaskOffload.dll
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.pdb
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\TaskOffload.genruntimeconfig.cache
+E:\VsCodeObject\BasicSyntax\TaskOffload\obj\Debug\net7.0-windows\ref\TaskOffload.dll
