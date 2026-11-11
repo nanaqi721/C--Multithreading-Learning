@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskOffload", "TaskOffload\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationOverview", "SynchronizationOverview\SynchronizationOverview.csproj", "{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalMutexExample", "GlobalMutexExample\GlobalMutexExample.csproj", "{FEA188E0-1442-4C54-B929-902B41CF13F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

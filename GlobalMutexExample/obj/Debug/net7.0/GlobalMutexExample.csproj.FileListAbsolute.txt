@@ -1,0 +1,14 @@
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\bin\Debug\net7.0\GlobalMutexExample.exe
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\bin\Debug\net7.0\GlobalMutexExample.deps.json
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\bin\Debug\net7.0\GlobalMutexExample.runtimeconfig.json
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\bin\Debug\net7.0\GlobalMutexExample.dll
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\bin\Debug\net7.0\GlobalMutexExample.pdb
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.AssemblyInfoInputs.cache
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.AssemblyInfo.cs
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.dll
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\refint\GlobalMutexExample.dll
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.pdb
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\GlobalMutexExample.genruntimeconfig.cache
+E:\VsCodeObject\BasicSyntax\GlobalMutexExample\obj\Debug\net7.0\ref\GlobalMutexExample.dll

@@ -1,5 +1,6 @@
 ﻿int counter = 0;
 
+object counterLock = new object();
 Thread thread1 = new Thread(IncrementCounter);
 Thread thread2 = new Thread(IncrementCounter);
 thread1.Start();
@@ -12,6 +13,11 @@ void IncrementCounter()
 {
     for(int i=0; i<100000; i++)
     {
-        counter++;
+        // 互斥锁
+        lock (counterLock)
+        {
+            counter++;
+        }
+
     }
 }
