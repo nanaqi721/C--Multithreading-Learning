@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationOverview", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalMutexExample", "GlobalMutexExample\GlobalMutexExample.csproj", "{FEA188E0-1442-4C54-B929-902B41CF13F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteLock", "ReadWriteLock\ReadWriteLock.csproj", "{4D83C98C-0F17-4AF6-BCE5-B927ACE39CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Basic_Use", "Task_Basic_Use\Task_Basic_Use.csproj", "{844D419E-4DF4-4387-ACB3-0CAE3C98A43B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA188E0-1442-4C54-B929-902B41CF13F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D83C98C-0F17-4AF6-BCE5-B927ACE39CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D83C98C-0F17-4AF6-BCE5-B927ACE39CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D83C98C-0F17-4AF6-BCE5-B927ACE39CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D83C98C-0F17-4AF6-BCE5-B927ACE39CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844D419E-4DF4-4387-ACB3-0CAE3C98A43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844D419E-4DF4-4387-ACB3-0CAE3C98A43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844D419E-4DF4-4387-ACB3-0CAE3C98A43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844D419E-4DF4-4387-ACB3-0CAE3C98A43B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

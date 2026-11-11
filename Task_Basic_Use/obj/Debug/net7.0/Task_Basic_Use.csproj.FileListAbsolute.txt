@@ -1,0 +1,14 @@
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\bin\Debug\net7.0\Task_Basic_Use.exe
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\bin\Debug\net7.0\Task_Basic_Use.deps.json
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\bin\Debug\net7.0\Task_Basic_Use.runtimeconfig.json
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\bin\Debug\net7.0\Task_Basic_Use.dll
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\bin\Debug\net7.0\Task_Basic_Use.pdb
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.AssemblyInfoInputs.cache
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.AssemblyInfo.cs
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.dll
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\refint\Task_Basic_Use.dll
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.pdb
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\Task_Basic_Use.genruntimeconfig.cache
+E:\VsCodeObject\BasicSyntax\Task_Basic_Use\obj\Debug\net7.0\ref\Task_Basic_Use.dll
