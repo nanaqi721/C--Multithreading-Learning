@@ -2,12 +2,15 @@
 /*Task task = new Task(Work);
 task.Start();*/
 
-Task.Run(Work);
-
+var task = Task.Run(Work);
+int result = task.Result;
+Console.WriteLine($"This task result:{result}");
 
 Console.ReadLine();
-void Work()
+int Work()
 {
     Console.WriteLine("I Love SnowFox");
     Console.WriteLine(Thread.CurrentThread.IsThreadPoolThread);
+    int result = 100;
+    return result;
 }
