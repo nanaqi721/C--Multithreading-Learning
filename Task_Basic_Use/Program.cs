@@ -9,4 +9,5 @@ Console.ReadLine();
 void Work()
 {
     Console.WriteLine("I Love SnowFox");
+    Console.WriteLine(Thread.CurrentThread.IsThreadPoolThread);
 }
