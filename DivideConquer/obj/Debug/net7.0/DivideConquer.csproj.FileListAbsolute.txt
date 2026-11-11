@@ -1,0 +1,14 @@
+E:\VsCodeObject\BasicSyntax\DivideConquer\bin\Debug\net7.0\DivideConquer.exe
+E:\VsCodeObject\BasicSyntax\DivideConquer\bin\Debug\net7.0\DivideConquer.deps.json
+E:\VsCodeObject\BasicSyntax\DivideConquer\bin\Debug\net7.0\DivideConquer.runtimeconfig.json
+E:\VsCodeObject\BasicSyntax\DivideConquer\bin\Debug\net7.0\DivideConquer.dll
+E:\VsCodeObject\BasicSyntax\DivideConquer\bin\Debug\net7.0\DivideConquer.pdb
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.AssemblyInfoInputs.cache
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.AssemblyInfo.cs
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.dll
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\refint\DivideConquer.dll
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.pdb
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\DivideConquer.genruntimeconfig.cache
+E:\VsCodeObject\BasicSyntax\DivideConquer\obj\Debug\net7.0\ref\DivideConquer.dll
