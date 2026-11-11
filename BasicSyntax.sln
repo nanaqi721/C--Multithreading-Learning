@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideConquer", "DivideConq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskOffload", "TaskOffload\TaskOffload.csproj", "{0526F8A6-B016-4205-B726-20346B0DCAEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationOverview", "SynchronizationOverview\SynchronizationOverview.csproj", "{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0526F8A6-B016-4205-B726-20346B0DCAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0526F8A6-B016-4205-B726-20346B0DCAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0526F8A6-B016-4205-B726-20346B0DCAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6247D420-A4FA-4D1F-A46B-74BA6024FD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\bin\Debug\net7.0\SynchronizationOverview.exe
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\bin\Debug\net7.0\SynchronizationOverview.deps.json
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\bin\Debug\net7.0\SynchronizationOverview.runtimeconfig.json
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\bin\Debug\net7.0\SynchronizationOverview.dll
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\bin\Debug\net7.0\SynchronizationOverview.pdb
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.AssemblyInfoInputs.cache
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.AssemblyInfo.cs
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.dll
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\refint\SynchronizationOverview.dll
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.pdb
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\SynchronizationOverview.genruntimeconfig.cache
+E:\VsCodeObject\BasicSyntax\SynchronizationOverview\obj\Debug\net7.0\ref\SynchronizationOverview.dll
